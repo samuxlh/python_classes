@@ -1,6 +1,3 @@
-#  Nome: Samuel Cezar dos Santos
-#  RA: 1996789
-
 funcionarios = [] # fila de funcionários
 tempoTotal = [] # fila de somatório dos tempos
 clientes = [] # fila de clientes
